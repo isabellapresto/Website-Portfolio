@@ -147,20 +147,18 @@ p {
  padding: 80px;
 }
 
+.headshot {
+  width: 300px;
+  border-radius: 200px;
+  margin-left: 80px;
+ }
+
 .sub-section-alternative {
  display: flex;
  flex-direction: column;
  text-align: center;
  padding: 80px;
 }
-
-
-.headshot {
- width: 300px;
- border-radius: 200px;
- margin-left: 80px;
-}
-
 
 .headshot-container {
  display: flex;
